@@ -1,5 +1,5 @@
 /*!
-* trans.js
+* trans.js 
 * https://bennylin.github.com/transliterasijawa
 *
 * Copyright 2013, Bennylin @bennylin
