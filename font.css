@@ -1,9 +1,6 @@
 @font-face {
     font-family: 'Ngayogyan';
     src: local("ꦲꦤꦕꦫꦏ"), 
-         url('https://subandoro.github.io/aksara/ngayogyan2022.eot'),
-         url('https://subandoro.github.io/aksara/ngayogyan2022.eot?#iefix') format('embedded-opentype'),
-         url('https://subandoro.github.io/aksara/ngayogyan2022.woff') format('woff'),
          url('https://subandoro.github.io/aksara/ngayogyan2022.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
