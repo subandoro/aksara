@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'nyk Ngayogyan New Italic';
+  font-family: 'Ngayogyan Italic';
   src: local("ꦲꦤꦕꦫꦏ"),
-    url('nyk Ngayogyan New Italic.ttf') format('truetype');
+    url('ngayogyan2022.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 .main_ta .tb .gb #prev_label {
-  font-family: 'nyk Ngayogyan New Italic';
+  font-family: 'Ngayogyan Italic';
 }
