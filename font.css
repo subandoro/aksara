@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Tuladha Jejeg';
+    font-family: 'Ngayogyan';
     src: local("ꦲꦤꦕꦫꦏ"), 
          url('https://subandoro.github.io/aksara/ngayogyan2022.eot'),
          url('https://subandoro.github.io/aksara/ngayogyan2022.eot?#iefix') format('embedded-opentype'),
@@ -10,8 +10,8 @@
 }
 
 #prev_label{
-    font-family: 'Noto Sans Javanese, Tuladha Jejeg';
+    font-family: 'Ngayogyan';
 }
 .gb, .main_ta, .tb{
-    font-family: 'Noto Sans Javanese, Tuladha Jejeg';
+    font-family: 'Ngayogyan';
 }
