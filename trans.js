@@ -840,7 +840,7 @@ function DoTransliterate(str) {
                       if(pakaiSpasi[rad].checked)
                         modeSpasi = pakaiSpasi[rad].value;
                     }
-                    if(modeSpasi == "without") {
+                    if(modeSpasi == "with") {
                     spasi = ''; }
                     else { //if(mode == "with")
                     spasi = '​'; // zero-width space 
