@@ -455,8 +455,7 @@ function GetCoreSound(str) {
         "N":"ꦤ", //N
         "O":"ꦎ", //O
         "P":"ꦥ", //P
-        //"Q":"꧀", //Q
-				"Q":"ꦐ", //Q
+        "Q":"꧀", //Q
         "R":"ꦂ", //R
         "S":"ꦱ", //S
         "T":"ꦠ", //T
@@ -482,8 +481,7 @@ function GetCoreSound(str) {
         "n":"ꦤ", //n
         "o":"ꦲꦺꦴ", //o
         "p":"ꦥ", //p
-        //"q":"꧀", //q
-				"q":"ꦐ", //q 25/07
+        "q":"꧀", //q
         "r":"ꦂ", //r
         "s":"ꦱ", //s
         "ś":"ꦯ", //ś
@@ -527,8 +525,7 @@ function GetCoreSound(str) {
         "N":"ꦟ", //N
         "O":"ꦎ", //O
         "P":"ꦦ", //P
-        //"Q":"꧀", //Q
-				"Q":"ꦐ", //Q
+        "Q":"꧀", //Q
         "R":"ꦬ", //R
         "ś":"ꦯ", //ś
         "S":"ꦯ", //S
@@ -555,7 +552,6 @@ function GetCoreSound(str) {
         "n":"ꦤ", //n
         "o":"ꦎ", //o
         "p":"ꦥ", //p
-				//"q":"꧀", //q
         "q":"꧀", //q
         "r":"ꦂ", //r
         "s":"ꦱ", //s
@@ -609,7 +605,7 @@ function GetCoreSound(str) {
     }
 }
 function GetSpecialSound(str) {
-    specialsoundMap = { "f":"ꦥ꦳꧀", "v":"ꦮ꦳꧀", "z":"ꦗ꦳꧀", "ś":"ꦯ", "q":"ꦐ꧀"/*pangkon*/ }
+    specialsoundMap = { "f":"ꦥ꦳꧀", "v":"ꦮ꦳꧀", "z":"ꦗ꦳꧀", "ś":"ꦯ", "q":"꧀"/*pangkon*/ }
     if(specialsoundMap[str]!==undefined){
         return specialsoundMap[str];
     }
