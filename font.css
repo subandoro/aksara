@@ -1,10 +1,10 @@
 @font-family: 'Noto Sans';
     src: local("ꦲꦤꦕꦫꦏ"),
-         url('noto2.eot'),
-         url('noto2.eot?#iefix') format('embedded-opentype'),
-         url('noto2.woff') format('woff'),
-         url('noto2.woff2') format('woff2'),
-         url('noto2.ttf') format('truetype');
+         url('https://subandoro.github.io/aksara/noto2.eot'),
+         url('https://subandoro.github.io/aksara/noto2.eot?#iefix') format('embedded-opentype'),
+         url('https://subandoro.github.io/aksara/noto2.woff') format('woff'),
+         url('https://subandoro.github.io/aksara/noto2.woff2') format('woff2'),
+         url('https://subandoro.github.io/aksara/noto2.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
