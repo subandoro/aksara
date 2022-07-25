@@ -439,6 +439,9 @@ return aksara nglegana maupun aksara istimewa (f/v/z/pangkon)
 ****************************/
 function GetCoreSound(str) {
     var consonantMap1 = {
+
+    }
+    var consonantMap2 = {
         "A":"ꦄ", //A
         "B":"ꦧ", //B
         "C":"ꦕ", //C
@@ -507,9 +510,6 @@ function GetCoreSound(str) {
         "ṭ":"ꦛ",
         "ṣ":"ꦰ",
         "ṛ":"ꦽ"
-    }
-    var consonantMap2 = {
-
     }
     var consonantMap, murda;
     var modeMurda = document.getElementsByName("murda");
