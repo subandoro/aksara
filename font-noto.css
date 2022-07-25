@@ -1,6 +1,5 @@
 @font-family: 'Noto Sans';
-    src: local("ꦲꦤꦕꦫꦏ"),
-         url('https://subandoro.github.io/aksara/noto2.eot'),
+    src: url('https://subandoro.github.io/aksara/noto2.eot'),
          url('https://subandoro.github.io/aksara/noto2.eot?#iefix') format('embedded-opentype'),
          url('https://subandoro.github.io/aksara/noto2.woff') format('woff'),
          url('https://subandoro.github.io/aksara/noto2.ttf') format('truetype');
