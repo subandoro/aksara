@@ -1,5 +1,5 @@
 /*!
-* trans.js 
+* trans.js
 * https://bennylin.github.com/transliterasijawa
 *
 * Copyright 2013, Bennylin @bennylin
@@ -455,7 +455,8 @@ function GetCoreSound(str) {
         "N":"ꦤ", //N
         "O":"ꦎ", //O
         "P":"ꦥ", //P
-        "Q":"꧀", //Q
+        //"Q":"꧀", //Q
+				"Q":"ꦐ", //Q
         "R":"ꦂ", //R
         "S":"ꦱ", //S
         "T":"ꦠ", //T
@@ -481,7 +482,8 @@ function GetCoreSound(str) {
         "n":"ꦤ", //n
         "o":"ꦲꦺꦴ", //o
         "p":"ꦥ", //p
-        "q":"꧀", //q
+        //"q":"꧀", //q
+				"q":"ꦐ", //q 25/07
         "r":"ꦂ", //r
         "s":"ꦱ", //s
         "ś":"ꦯ", //ś
