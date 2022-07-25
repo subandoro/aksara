@@ -1,14 +1,17 @@
-@font-face {
-    font-family: 'Ngayogyan';
-    src: local("ꦲꦤꦕꦫꦏ"), 
-         url('https://subandoro.github.io/aksara/ngayogyan2022.ttf') format('truetype');
+@font-family: 'Noto Sans';
+    src: local("ꦲꦤꦕꦫꦏ"),
+         url('noto2.eot'),
+         url('noto2.eot?#iefix') format('embedded-opentype'),
+         url('noto2.woff') format('woff'),
+         url('noto2.woff2') format('woff2'),
+         url('noto2.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 #prev_label{
-    font-family: 'Ngayogyan';
+    font-family: 'Noto Sans';
 }
 .gb, .tb, .jw{
-    font-family: 'Ngayogyan';
+    font-family: 'Noto Sans';
 }
