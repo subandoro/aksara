@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Javaholic';
+    src: local("ꦲꦤꦕꦫꦏ"),
+         url('javaholic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#prev_label{
+    font-family: 'Javaholic';
+}
+.gb, .tb, .jw{
+    font-family: 'Javaholic';
+}
