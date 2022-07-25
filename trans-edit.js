@@ -631,7 +631,7 @@ function GetCoreSound(str) {
         "N":"ꦤ", //na
         "O":"ꦎ", //O
         "P":"ꦥ", //pa
-        "Q":"꧀", //pangkon
+        "Q":"ꦐ", //pangkon
         "R":"ꦫ", //ra
         "S":"ꦱ", //sa
         "T":"ꦠ", //ta
