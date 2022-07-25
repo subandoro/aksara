@@ -689,7 +689,7 @@ function GetCoreSound(str) {
         "n":"ꦤ", //na
         "o":"ꦲꦺꦴ", //ho
         "p":"ꦥ", //pa
-        "q":"꧀", //pangkon
+        "q":"ꦐ", //pangkon
         "r":"ꦂ", //layar, with zws
         "s":"ꦱ", //sa
         "t":"ꦠ", //ta
@@ -764,7 +764,7 @@ function GetCoreSound(str) {
     }
 }
 function GetSpecialSound(str) {
-    specialsoundMap = { "f":"ꦥ꦳꧀", "v":"ꦮ꦳꧀", "z":"ꦗ꦳꧀", "ś":"ꦯ꧀", "Q":"꧀", "q":"꧀"/*pangkon*/ }
+    specialsoundMap = { "f":"ꦥ꦳꧀", "v":"ꦮ꦳꧀", "z":"ꦗ꦳꧀", "ś":"ꦯ꧀", "Q":"ꦐ꧀", "q":"ꦐ꧀"/*pangkon*/ }
     if(specialsoundMap[str]!==undefined){
         return specialsoundMap[str];
     }
