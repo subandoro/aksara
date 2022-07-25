@@ -1,0 +1,16 @@
+@font-family: 'Noto Sans';
+    src: local("ꦲꦤꦕꦫꦏ"),
+         url('https://subandoro.github.io/aksara/noto2.eot'),
+         url('https://subandoro.github.io/aksara/noto2.eot?#iefix') format('embedded-opentype'),
+         url('https://subandoro.github.io/aksara/noto2.woff') format('woff'),
+         url('https://subandoro.github.io/aksara/noto2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#prev_label{
+    font-family: 'Noto Sans';
+}
+.gb, .tb, .jw{
+    font-family: 'Noto Sans';
+}
