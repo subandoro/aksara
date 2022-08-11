@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Noto Sans Javanese';
+    src: local("ꦲꦤꦕꦫꦏ"),
+         url('noto2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.popular-post-title,
+.related-title-outer,
+.post-title,
+.entry-title,
+.jw {
+    font-family: 'Noto Sans Javanese';
+}
