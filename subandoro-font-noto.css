@@ -6,10 +6,18 @@
     font-style: normal;
 }
 
+#baca-juga,
 .popular-post-title,
 .related-title-outer,
 .post-title,
 .entry-title,
 .jw {
     font-family: 'Noto Sans Javanese';
+}
+
+#baca-juga,
+.popular-post-title,
+.related-title-outer,
+ {
+    font-size: 1rem;
 }
