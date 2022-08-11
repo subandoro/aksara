@@ -6,16 +6,6 @@
     font-style: normal;
 }
 
-.popular-post-title,
-.related-title-outer,
-.post-title,
-.entry-title,
 .jw {
     font-family: 'Noto Sans Javanese';
-}
-
-.popular-post-title,
-.related-title-outer
- {
-    font-size: 1rem !important;
 }
