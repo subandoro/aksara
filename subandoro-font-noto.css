@@ -17,5 +17,5 @@
 .popular-post-title,
 .related-title-outer
  {
-    font-size: 1rem;
+    font-size: 1rem !important;
 }
